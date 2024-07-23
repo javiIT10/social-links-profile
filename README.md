@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/social-link-profile-using-tailwind-css-e5KorERGPQ](https://your-solution-url.com)
-- Live Site URL: [https://javiit10.github.io/social-links-profile/](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-link-profile-using-tailwind-css-e5KorERGPQ](https://www.frontendmentor.io/solutions/social-link-profile-using-tailwind-css-e5KorERGPQ)
+- Live Site URL: [https://javiit10.github.io/social-links-profile/](https://javiit10.github.io/social-links-profile/)
 
 ## My process
 
